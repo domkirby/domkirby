@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @domkirby
+- 💼 Director of Cloud Services @Pax8
 - 🔒 I'm a cybersecurity practitioner, modern workplace connoisseur, people leader, husband and father. Sometimes I write "meh" code and share it.
 - 👀 I’m interested in nerdy stuff, improving my purple teaming capabilities.
 - 🧑‍💻 I write PowerShell and PHP primarily
