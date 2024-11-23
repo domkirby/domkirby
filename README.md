@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on 🤷
 - 📫 How to reach me 
   - Website: https://domkirby.com
-  - Fediverse: @domkirbyadmin@channelinfosec.com or @domkirby@infosec.exchange
+  - Mastodon: @domkirby@infosec.exchange
   - LinkedIn: https://linkedin.com/in/DominicKirby
 
 <!---
