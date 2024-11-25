@@ -7,7 +7,7 @@
   - Website: https://domkirby.com
   - Mastodon: @domkirby@infosec.exchange
   - LinkedIn: https://linkedin.com/in/DominicKirby
-  - Bluesky: https://bsky.app/profile/domkirby.bsky.social
+  - Bluesky: https://bsky.app/profile/domkirby.com
 
 <!---
 domkirby/domkirby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
