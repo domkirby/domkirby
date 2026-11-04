@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="dk-light.png" alt="Dom Kirby" width="380">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7ED957&width=435&lines=_%3E+domkirby" alt="Dom Kirby" /></a>
 
 ### Cybersecurity, Cloud & AI for SMBs
 **CISSP · SSCP · People-First Leader**
